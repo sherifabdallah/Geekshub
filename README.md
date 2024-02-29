@@ -22,7 +22,7 @@ Geekshub is a Website which allows users, who sign-up for free profiles, to conn
 ## How to run
 * Enter the directory where the script is located then type the following to the console
 ```sh
-$ git clone https://github.com/sherif-abdallah/Geekshub Geekshub
+$ git clone https://github.com/sherifabdallah/Geekshub Geekshub
 ```
 * Install Python 3.8 venv, pip and compiler
 
@@ -68,4 +68,4 @@ Go the `.env` file and Change  `DEBUG = True` `PRODUCTION = False`
 * And navigate to `http://127.0.0.1:8000`.
 
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
